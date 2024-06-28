@@ -1,4 +1,5 @@
 # Batman
 This is my first git repository
-Author = Ritesh Thakur
+<br>
+Author-Ritesh Thakur
 
